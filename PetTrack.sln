@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetTrackCore", "PetTrackCore\PetTrackCore.csproj", "{2EC6DA77-CB09-4AFC-9CE2-0D6A21F09B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetTrackDataAccess", "PetTrackDataAccess\PetTrackDataAccess.csproj", "{17837396-840F-4EF1-8DE5-286528E0F6F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetTrackService", "PetTrackService\PetTrackService.csproj", "{B5444C4C-FFAA-4AF0-B85C-54E427BED754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC6DA77-CB09-4AFC-9CE2-0D6A21F09B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC6DA77-CB09-4AFC-9CE2-0D6A21F09B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC6DA77-CB09-4AFC-9CE2-0D6A21F09B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC6DA77-CB09-4AFC-9CE2-0D6A21F09B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17837396-840F-4EF1-8DE5-286528E0F6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17837396-840F-4EF1-8DE5-286528E0F6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17837396-840F-4EF1-8DE5-286528E0F6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17837396-840F-4EF1-8DE5-286528E0F6F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5444C4C-FFAA-4AF0-B85C-54E427BED754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5444C4C-FFAA-4AF0-B85C-54E427BED754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5444C4C-FFAA-4AF0-B85C-54E427BED754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5444C4C-FFAA-4AF0-B85C-54E427BED754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDB86528-FAEE-4AB9-85D5-D834C671326D}
+	EndGlobalSection
+EndGlobal
